@@ -11,13 +11,13 @@
     </p>
     <ul style="list-style-type: none;">
         <li>
-            - 💬 Pergunte-me sobre ** HTML5, CSS3, JavaScript e PHP Vanilla **
+            💬 Pergunte-me sobre ** HTML5, CSS3, JavaScript e PHP Vanilla **
         </li>  
         <li>
-            - 📫 Como me encontrar **viniciuslima.dev@outlook.com**
+            📫 Como me encontrar **viniciuslima.dev@outlook.com**
         </li>  
         <li>
-            - 📄 Conheça minhas experiências [
+            📄 Conheça minhas experiências [
             https://www.linkedin.com/in/vinicius-lima-938322164/](https://www.linkedin.com/in/vinicius-lima-938322164/)
         </li>  
     </ul>

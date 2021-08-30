@@ -1,5 +1,5 @@
 <h1 align="center"> Olá 👋 sou Vinicius </h1>
-    <h3 align="center"> Um desenvolvedor back e front-end apaixonado por 💻 Códigos, 🎬 Filmes e ☕ Café</h3>
+    <h3 align="center"> Um desenvolvedor back e front-end apaixonado por 💻 Códigos, 🎬 Filmes antigos e ☕ Café</h3>
     <p align="left">
         <img src="https://komarev.com/ghpvc/?username=vcdl1997&label=Profile%20views&color=0e75b6&style=flat"
             alt="vcdl1997" />

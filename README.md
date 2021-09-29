@@ -26,7 +26,7 @@
         <a href="https://linkedin.com/in/vinicius-lima-938322164" target="blank"> 
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="vinicius-lima-938322164" height="30" width="40" /> 
+                alt="Foto do perfil" height="30" width="40" /> 
         </a>
     </p>
     <h3 align="left"> Linguagens e frameworks: </h3>

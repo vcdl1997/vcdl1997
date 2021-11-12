@@ -16,7 +16,7 @@
         📫 Como me encontrar **viniciuslima.dev@outlook.com**
     </li>  
     <li>
-       Conheça minhas experiências [https://www.linkedin.com/in/vinicius-lima-938322164/](https://www.linkedin.com/in/vinicius-lima-938322164/)
+       Conheça minhas experiências [https://www.linkedin.com/in/vinicius-lima-938322164/]
     </li>  
 </ul>
 <h3 align="left">Conecte-se a mim: </h3>

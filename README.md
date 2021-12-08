@@ -10,10 +10,10 @@
 </p>
 <ul style="list-style-type: none;">
     <li>
-        💬 Pergunte-me sobre **HTML5, CSS3, JavaScript, Java e PHP**
+        💬 Pergunte-me sobre ** Java, PHP, JavaScript CSS3 e HTML5 **
     </li>  
     <li>
-        📫 Como me encontrar **viniciuslima.dev@outlook.com**
+        📫 Como me encontrar **vcl1997@hotmail.com** || **viniciuslima.dev@outlook.com**
     </li>  
     <li>
        Conheça minhas experiências [https://www.linkedin.com/in/vinicius-lima-938322164/]

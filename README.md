@@ -8,22 +8,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=vcdl1997" alt="vcdl1997"/>
     </a> 
 </p>
-<ul style="list-style-type: none;">
-    <li>
-        💬 Pergunte-me sobre ** Java, PHP, JavaScript CSS3 e HTML5 **
-    </li>
-    <li>
-       Conheça minhas experiências [https://www.linkedin.com/in/vinicius-lima-938322164/]
-    </li>  
-</ul>
-<h3 align="left">Conecte-se a mim: </h3>
-<p align="left">
-    <a href="https://linkedin.com/in/vinicius-lima-938322164" target="blank"> 
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="vinicius-lima-938322164" height="30" width="40" /> 
-    </a>
-</p>
 <h3 align="left"> Linguagens e frameworks: </h3>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 

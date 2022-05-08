@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
+<p>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a>
@@ -121,11 +121,7 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcdl1997&show_icons=true&locale=en&layout=compact" alt="vcdl1997" />
-</p>
-<p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcdl1997&show_icons=true&locale=en" alt="vcdl1997" />
-</p>
-<p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vcdl1997&" alt="vcdl1997" />
 </p>

@@ -11,7 +11,7 @@
     </a>
 </p>
 
-- 💬 Pergunte-me sobre **PHP, Java, JavaScript**
+- 💬 Pergunte-me sobre **Java, PHP, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
